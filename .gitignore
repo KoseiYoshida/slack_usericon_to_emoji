@@ -1,0 +1,5 @@
+*.pyc
+saved_icons
+memo.md
+.env
+members.json
